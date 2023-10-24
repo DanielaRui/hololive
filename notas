@@ -1,0 +1,15 @@
+nodemon ---        actualiza sin tener que hacer node ---
+npm run dev -----  correr el servidor
+
+________________________________________
+||||||||       MONGO         |||||||||||
+
+npm i mongoose---- Modulo para bd Mongo
+
+ionic g
+? What would you like to generate? service
+? Name/path of service: services/api
+n
+
+
+
